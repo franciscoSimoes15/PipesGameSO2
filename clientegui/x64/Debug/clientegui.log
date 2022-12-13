@@ -1,0 +1,11 @@
+﻿  clientegui.c
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Servidor\comunicacao.h(164,38): warning C4030: first formal parameter list longer than the second list
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(131,21): warning C4002: too many arguments for function-like macro invocation '_T'
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(152,25): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(152,21): warning C4024: 'OpenMutexW': different types for formal and actual parameter 1
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(564,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(566,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(328,7): warning C4101: 'rect': unreferenced local variable
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(557,14): warning C4101: 'j': unreferenced local variable
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\clientegui\clientegui.c(711): warning C4715: 'TrataEventos': not all control paths return a value
+  clientegui.vcxproj -> C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\x64\Debug\ClienteGUI.exe

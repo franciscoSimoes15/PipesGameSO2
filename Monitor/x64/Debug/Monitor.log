@@ -1,0 +1,8 @@
+﻿  monitor.c
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Servidor\comunicacao.h(164,38): warning C4030: first formal parameter list longer than the second list
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Monitor\monitor.c(29,32): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Monitor\monitor.c(29,28): warning C4024: 'OpenMutexW': different types for formal and actual parameter 1
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Monitor\monitor.c(155): warning C4716: 'ThreadMonitorLeitura': must return a value
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Monitor\monitor.c(162): warning C4716: 'ThreadEncerraMonitor': must return a value
+C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\Monitor\monitor.c(139): warning C4172: returning address of local variable or temporary: comando
+  Monitor.vcxproj -> C:\Users\tolid\Desktop\so2-2122-tp-m1-FranciscoJoseDuarteSimoes-2019133920-RicardoFerreira-2016020798\x64\Debug\Monitor.exe

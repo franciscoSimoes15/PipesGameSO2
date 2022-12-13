@@ -1,0 +1,4 @@
+﻿  cliente.c
+C:\Users\tolid\Downloads\TPSO (4)\TPSO\Servidor\comunicacao.h(164,38): warning C4030: primeira lista de parâmetros formais maior do que a segunda lista
+C:\Users\tolid\Downloads\TPSO (4)\TPSO\Cliente\cliente.c(76,38): warning C4267: '=': conversão de 'size_t' para 'DWORD', possível perda de dados
+  Cliente.vcxproj -> C:\Users\tolid\Downloads\TPSO (4)\TPSO\x64\Debug\Cliente.exe
